@@ -3,6 +3,11 @@ layout: page
 type: about
 ---
 
+### 로드맵
+
+- 프론트엔드
+    - [ ] react master
+    
 ### 학력
 
 - 학교/영재원
