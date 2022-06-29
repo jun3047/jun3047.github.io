@@ -1,5 +1,5 @@
 ---
-title:  "update"
+title:  "new"
 date:   2021-06-30 17:51:00
 categories:
 - Easy-Algorithm

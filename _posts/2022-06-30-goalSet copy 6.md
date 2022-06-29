@@ -1,6 +1,6 @@
 ---
-title:  "23시"
-date:   2021-06-29 23:51:00
+title:  "00시"
+date:   2022-06-30 00:00:00
 categories:
 - Easy-Algorithm
 tags:
