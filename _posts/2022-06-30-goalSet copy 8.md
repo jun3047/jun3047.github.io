@@ -1,6 +1,6 @@
 ---
-title:  "7시 51분"
-date:   2022-06-30 07:51:00
+title:  "1시 51분"
+date:   2022-06-30 01:51:00
 categories:
 - Easy-Algorithm
 tags:
