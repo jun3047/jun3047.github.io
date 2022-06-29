@@ -1,5 +1,5 @@
 ---
-title:  "[탐색] 이진 탐색(Binary)"
+title:  "update"
 date:   2021-06-30 17:51:00
 categories:
 - Easy-Algorithm
