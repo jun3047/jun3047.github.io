@@ -7,7 +7,7 @@ type: about
 
 - 프론트엔드
 
-    [ ] react master
+    - [ ] react master
 
 ### 학력
 
