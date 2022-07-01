@@ -2,7 +2,7 @@
 title: 블로그 작성 방식은 학습 효율로 이어진다.
 date: 2022-06-29 13:34:08
 categories:
-- Blog
+- Algorithmic-Problem-Solving-Strategies
 tags:
 - Rule
 ---
