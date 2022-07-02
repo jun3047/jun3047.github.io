@@ -80,7 +80,7 @@ tags:
 이제 Solution 바탕으로 웹의 메뉴를 설계했다. 중간 중간에 UVP(Unique Value Proposition)와 Unfair Advantage 등 주요한 내용을 리마인드 하면서 제작하였다.
 
 
-slash : 마인드 관련 말
+slash: 마인드 관련 말
 
 - 홈
     - 여러 챌린지
