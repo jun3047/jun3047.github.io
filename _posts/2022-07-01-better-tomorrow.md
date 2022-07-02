@@ -5,6 +5,7 @@ categories:
 - Project
 tags:
 - 린캔버스
+- 프로젝트 시작
 ---
 
 ### 시작: 벌금형 스터디
