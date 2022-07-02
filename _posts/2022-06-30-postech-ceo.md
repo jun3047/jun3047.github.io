@@ -1,5 +1,5 @@
 ---
-title: title
+title: 스타트업이 시작하는 법
 date: 2022-07-01 15:33:27
 categories:
 - 창업
