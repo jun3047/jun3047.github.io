@@ -17,7 +17,7 @@ tags:
 
 ### 린 캔버스
 
-<img src="/jun3047/jun3047.github.io/blob/master/assets/images/lean%20canvas.png?raw=true" alt="이것도 수정한 겨">
+<img src="https://raw.githubusercontent.com/jun3047/jun3047.github.io/master/assets/images/mvp_image.png" alt="이것도 수정한 겨">
 
 Lean Canvas는 빠르게 스타트업에 필요한 요소들을 정리할 수 있게 해주는 모델 기획 캔버스이다. Lean Canvas의 장점은 다음과 같다.
 
