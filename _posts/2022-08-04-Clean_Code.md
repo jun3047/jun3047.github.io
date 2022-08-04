@@ -41,7 +41,7 @@ Headless 기반의 추상화
 ### 실천
 
 
-`
+```tsx
 
 import React, { useState } from 'react'
 import styled from '@emotion/styled'
@@ -178,4 +178,4 @@ const MeunTitle = styled.h3`
 `
 export default Meun
 
-`
+```
