@@ -41,10 +41,11 @@ Headless 기반의 추상화
 ### 실천
 
 
-`import React, { useState } from 'react'
+`
+
+import React, { useState } from 'react'
 import styled from '@emotion/styled'
 import { useDispatch } from 'react-redux';
-
 
 interface IMeun{
     title: string;
@@ -175,5 +176,6 @@ const MeunTitle = styled.h3`
     padding-bottom: 10px;
     font-size: 14px;
 `
+export default Meun
 
-export default Meun`
+`
