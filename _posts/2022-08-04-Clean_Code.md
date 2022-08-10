@@ -1,5 +1,5 @@
 ---
-title: Component를 훌룡하게 만드는 법
+title: Component를 훌륭하게 만드는 법
 date: 2022-08-03 12:08:33
 categories:
 - Jun Conponent System
